@@ -11,7 +11,8 @@ I started my PhD in order to better understand how memory works inside the brain
 
 As time went by I started to become more and more aware that in order to create meaningful work, I should make the work I create truly accessible and reproducible. This way, the projects I work on could be easily reproduced and understood both by my academic peers but also by people who might not be familiar with my research. 
 
-If you're interested in learning a bit more on my past experience please feel free to browse my [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/susana-roman-garcia/))
+If you're interested in learning a bit more on my past experience please feel free to browse here:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/susana-roman-garcia/))
 &nbsp;
 
 #### Current Projects
