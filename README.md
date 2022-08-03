@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my first profile page (on [Github Pages](https://docs.github.com/categories/github-pages-basics/))
 
-You can use the [editor on GitHub](https://github.com/Susana465/Susana465.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am also an Enrichment Student at the Alan Turing Institute.
+I want to bring love into academia, into the work that I do. This means I want to create spaces where, in the words of bell hooks, we can be open and honestly express care, affection, responsibility, respect, commitment and trust.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About my work
 
-### Markdown
+I started my PhD in order to better understand how memory works inside the brain cells (neurons) in our brains. In order to do so, I create computer models of molecular interactions that can help predict how molecules are working inside neurons. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As time went by I started to become more and more aware that in order to create meaningful work, I should make the work I create truly accessible and reproducible. This way, the projects I work on could be easily reproduced and understood both by my academic peers but also by people who might not be familiar with my research. 
 
-```markdown
-Syntax highlighted code block
+#### Current Projects
 
-# Header 1
-## Header 2
-### Header 3
+- PhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D
+- Alan Turing Enrichment Student + Open Life Sciences (cohort 6): Ethical standards and reproducibility of computer models in Neurobiology
+- Climate Cafes with Climate Psychology Alliance
 
-- Bulleted
-- List
+### Selected Talks and other collaborations
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Susana465/Susana465.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Thinking about Ethics in (Computer) Science [link coming soon]
