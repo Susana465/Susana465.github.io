@@ -1,4 +1,6 @@
-## Welcome to my first profile page (on [Github Pages](https://docs.github.com/categories/github-pages-basics/))
+## About me
+
+Welcome to my first profile page (on [Github Pages](https://docs.github.com/categories/github-pages-basics/)). This is a profile in the making, so keep your eyes open for what's to come!
 
 I am a PhD student at the University of Edinburgh, funded by Medical Research Scotland. I am also an Enrichment Student at the Alan Turing Institute.
 I want to bring love into academia, into the work that I do. This means I want to create spaces where, in the words of bell hooks, we can be open and honestly express care, affection, responsibility, respect, commitment and trust.
