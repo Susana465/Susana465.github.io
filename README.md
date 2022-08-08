@@ -21,7 +21,7 @@ As time went by I started to become more and more aware that in order to create 
 
 - [Alan Turing Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/susana-roman-garcia)
 
-- [Open Life Sciences (cohort 6)] (https://openlifesci.org/): 
+- [Open Life Sciences (cohort 6)](https://openlifesci.org/): 
   During my time at OLS I hope to work on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology.
   
 - [Climate Cafes](https://www.climatepsychologyalliance.org/~cpa/events/500-climate-cafe-jan) with Climate Psychology Alliance
