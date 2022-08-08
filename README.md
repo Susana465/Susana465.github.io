@@ -25,4 +25,4 @@ If you're interested in learning a bit more on my past experience please feel fr
 
 - Thinking about Ethics in (Computer) Science. You can watch the recording [here](https://youtu.be/8wAfcTM_ypA), and access slides [here](https://zenodo.org/record/6973796#.YvDqOHbMKUk).
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/8wAfcTM_ypA" title="Thinking about Ethics in (Computer) Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/8wAfcTM_ypA" title="Thinking about Ethics in (Computer) Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
