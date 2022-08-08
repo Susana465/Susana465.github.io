@@ -1,12 +1,13 @@
 title: Susana Roman Garcia
-description: 
-  github:
-   id: 'Susana465'
+description: PhD student on Computational Neuroscience and Ethics, MSc Neuroinformatics, BSc Neuroscience.
+
+github:
+    id: 'Susana465'
     href: 'https://github.com/'
     title: 'GitHub'
     fa-icon: 'fa-github-square'
   
-  email:
+email:
     id: 'your.name@yoursite.com'
     href: 'mailto:'
     title: 'Email'
