@@ -1,16 +1,4 @@
 title: Susana Roman Garcia
 description: PhD student on Computational Neuroscience and Ethics; MSc Neuroinformatics; BSc Neuroscience.
-
-github:
-    id: 'Susana465'
-    href: 'https://github.com/'
-    title: 'GitHub'
-    fa-icon: 'fa-github-square'
-  
-email:
-    id: 'your.name@yoursite.com'
-    href: 'mailto:'
-    title: 'Email'
-    fa-icon: 'fa-envelope-square'
   
 theme: jekyll-theme-architect
