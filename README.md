@@ -18,7 +18,8 @@ As time went by I started to become more and more aware that in order to create 
 #### Current Projects
 
 - PhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D using [MCell](https://mcell.org/), [BioNetGen](http://bionetgen.org/) and [Biodynamo](https://biodynamo.org/)
-- Alan Turing Enrichment Student + Open Life Sciences (cohort 6): Ethical standards and reproducibility of computer models in Neurobiology
+- [Alan Turing Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/susana-roman-garcia)
+- Open Life Sciences (cohort 6): Ethical standards and reproducibility of computer models in Neurobiology
 - Climate Cafes with Climate Psychology Alliance
 
 ### Selected Talks and other collaborations
