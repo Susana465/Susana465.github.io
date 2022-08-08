@@ -23,4 +23,4 @@ If you're interested in learning a bit more on my past experience please feel fr
 
 ### Selected Talks and other collaborations
 
-- Thinking about Ethics in (Computer) Science [link coming soon]
+- Thinking about Ethics in (Computer) Science. You can watch recording [here](https://youtu.be/8wAfcTM_ypA), and access slides [here](https://zenodo.org/record/6973796#.YvDqOHbMKUk)
