@@ -24,6 +24,10 @@ As time went by I started to become more and more aware that in order to create 
 - [Open Life Sciences (cohort 6)](https://openlifesci.org/): 
   During my time at OLS I hope to work on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology.
   
+- [Data Hazards Workshop](https://github.com/Susana465/Data_Hazards_workshop_COMBINE) given at [COMBINE 2022](https://combine-org.github.io/events/)
+
+- [Bias and reproducibility in a computational neurobiology PhD's journey](https://github.com/Susana465/Bias-and-Reproducibility-Poster)
+  
 - [Climate Cafes](https://www.climatepsychologyalliance.org/~cpa/events/500-climate-cafe-jan) with Climate Psychology Alliance
 
 ### Selected Talks and other collaborations
@@ -32,3 +36,5 @@ As time went by I started to become more and more aware that in order to create 
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/8wAfcTM_ypA" title="Thinking about Ethics in (Computer) Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Want to collaborate/get in touch?
+Send me an email to: sromangarcia@turing.ac.uk
