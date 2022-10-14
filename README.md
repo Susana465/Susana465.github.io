@@ -7,10 +7,13 @@ I want to bring love into academia, into the work that I do. This means I want t
 
 ### About my work
 
-I started my PhD in order to better understand how memory works inside the brain cells (neurons) in our brains. In order to do so, I create computer models of molecular interactions that can help predict how molecules are working inside neurons. 
+I started my PhD in order to better understand how memory works inside our brains. In order to do so, I simplify the complex mechanisms of memory and create computer models of molecular interactions that can help predict how molecules are working inside neurons. 
 
-As time went by I started to become more and more aware that in order to create meaningful work, I should make the work I create truly accessible and reproducible. This way, the projects I work on could be easily reproduced and understood both by my academic peers but also by people who might not be familiar with my research. 
+As time went by I started to become more and more aware that in order to create meaningful work, it needs to challenge the colonizing mindset of research. This is, there is a need to move away from historically white, cis-male, centered science, to a science that is much more inclusive and accessible, and moves away from the imperialist white supermacist patriarchal culture we live in. 
 
+Hopefully you will be able to see through the projects listed below, that reproducibility and bias in science are huge driving forces of how I work. Making reproducible science means a bit more time is needed at the beginning, but in the long run money, time and resources are saved by not repeating the same research over and over again. Similarly, I see no point in creating amazingly reproducible research, if this is carrying sexist, racist, ableist, speciesist or any kind of oppressive bias that continues to disproportionately affect some individuals more than others.
+
+As an emotional human, I also very much care about the environment (not as separate from humans), and the intersectional impacts of the current climate crisis. I see all parts of my life as inter-connected, not as isolated sections. I work and live to create a new vision of what the world can be.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/susana-roman-garcia/))
 &nbsp;
