@@ -7,7 +7,7 @@ I am a PhD student at the University of Edinburgh, funded by Medical Research Sc
 I want to bring love into academia, into the work that I do. This means I want to create spaces where, in the words of bell hooks, we can be open and honestly express care, affection, responsibility, respect, commitment and trust.
 
 #### (Español)
-Bienvenido a mi primera página de perfil [Github Pages](https://docs.github.com/categories/github-pages-basics/). Este es un perfil en desarrollo, ¡así que mantén los ojos abiertos para lo que está por venir!
+Bienvenido a mi primera página de perfil [Github Pages](https://docs.github.com/es/pages/getting-started-with-github-pages). Este es un perfil en desarrollo, ¡así que mantén los ojos abiertos para lo que está por venir!
 
 Soy estudiante de doctorado en la Universidad de Edimburgo, financiado por Medical Research Scotland. También soy estudiante del "Enrichment Scheme" en el Instituto Alan Turing. Quiero traer amor a la academia, al trabajo que hago. Esto significa que quiero crear espacios donde, en palabras de bell hooks, podamos ser abiert@s y expresar honestamente cuidado, afecto, responsabilidad, respeto, compromiso y confianza.
 
