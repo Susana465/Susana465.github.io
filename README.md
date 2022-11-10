@@ -42,7 +42,7 @@ Como ser humana emocional, también me preocupo mucho por el medio ambiente (no 
 - [Alan Turing Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/susana-roman-garcia)
 
 - [Open Life Sciences (cohort 6)](https://openlifesci.org/): 
-  During my time at OLS I hope to work on creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology.
+  During my time at OLS I hope to work on [creating a framework within my PhD that allows the questioning of ethical standards and reproducibility of computer models in Computational Neurobiology](https://github.com/Susana465/OLS-6-Ethical-standards-and-reproducibility-of-computer-models-in-Neurobiology).
 
 - [Bias and reproducibility in a computational neurobiology PhD's journey](https://github.com/Susana465/Bias-and-Reproducibility-Poster)
   
