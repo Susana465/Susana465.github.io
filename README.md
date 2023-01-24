@@ -37,6 +37,8 @@ Como ser humana emocional, también me preocupo mucho por el medio ambiente (no 
 
 #### Current Projects/ Proyectos Actuales:
 
+- Currently organising: [Data Hazards, Ethics and Reproducibility Hybrid Symposium, March 2023](https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087)
+
 - PhD: Creating Computer models of CaMKII/NMDAR dynamics in 3D using [MCell](https://mcell.org/), [BioNetGen](http://bionetgen.org/) and [Biodynamo](https://biodynamo.org/)
 
 - [Alan Turing Enrichment Student](https://www.turing.ac.uk/people/enrichment-students/susana-roman-garcia)
@@ -49,6 +51,8 @@ Como ser humana emocional, también me preocupo mucho por el medio ambiente (no 
 - [Climate Cafes](https://www.climatepsychologyalliance.org/~cpa/events/500-climate-cafe-jan) with Climate Psychology Alliance
 
 ### Selected Talks and other collaborations / Charlas seleccionadas y otras colaboraciones
+
+- [Open Life Sciences Graduation talk, recorded live session](https://www.youtube.com/watch?v=3qb28JDFhGw)
 
 - [Data Hazards Workshop](https://github.com/Susana465/Data_Hazards_workshop_COMBINE) given at [COMBINE 2022](https://combine-org.github.io/events/)
 
